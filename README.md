@@ -13,4 +13,4 @@ A python program that generates programming quotes and jokes.
 
 - `contributor-1`: [quotes-housni-b](https://github.com/Thomas0zO/quotes-housni-b)
 - `contributor-2`: [quotes-cressiaux-b](https://github.com/Elioott/quotes-cressiaux-b)
-- `contributor-3`: [quotes-brut-b]()
+- `contributor-3`: [quotes-brut-b](https://github.com/Adam1832/quotes-brut-b)
